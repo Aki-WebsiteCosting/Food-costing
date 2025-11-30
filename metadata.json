@@ -1,0 +1,5 @@
+{
+  "name": "Food Costing",
+  "description": "A specialized food costing calculator for student bakers. Estimates costs, suggests prices, and provides detailed breakdowns for recipes using AI.",
+  "requestFramePermissions": []
+}
